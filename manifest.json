@@ -26,9 +26,9 @@
       "type": "movie",
       "id": "filmfrei_catalog",
       "name": "FilmFrei Filme",
-      "url": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/refs/heads/main/catalog.json"
+      "url": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/main/catalog.json"
     }
   ],
   "resources": ["catalog", "meta", "stream"],
-  "streamUrl": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/refs/heads/main/streams.json"
+  "streamUrl": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/main/streams.json"
 }
