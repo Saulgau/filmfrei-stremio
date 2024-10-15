@@ -1,0 +1,15 @@
+{
+  "filmfrei_deadpool_wolverine": [
+    {
+      "title": "Deadpool & Wolverine",
+      "url": "https://3jtpuy07im.swiftload.io/serve/3/vh74qihcjvc/zzWPTyKzZ90t55yFb5ONjw/1728178184/vh74qihcjvc//master.m3u8"
+    }
+  ],
+  "filmfrei_john_wick": [
+    {
+      "title": "John Wick",
+      "url": "https://3jtpuy07im.swiftload.io/serve/3/jnmljrug6l9/UMwOfUmTWiknnKfB-lpIbA/1725396613/jnmljrug6l9//master.m3u8"
+    }
+  ],
+  // Fügen Sie hier die Streams für die restlichen Filme hinzu
+}
