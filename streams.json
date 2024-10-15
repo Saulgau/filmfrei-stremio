@@ -11,5 +11,16 @@
       "url": "https://3jtpuy07im.swiftload.io/serve/3/jnmljrug6l9/UMwOfUmTWiknnKfB-lpIbA/1725396613/jnmljrug6l9//master.m3u8"
     }
   ],
-  // Fügen Sie hier die Streams für die restlichen Filme hinzu
+  "filmfrei_harry_potter_1": [
+    {
+      "title": "Harry Potter und der Stein der Weisen",
+      "url": "https://3jtpuy07im.swiftload.io/serve/3/5uhykxfw6qv/OiGE2XFe27wTjEt0NI2BBg/1725396564/5uhykxfw6qv//master.m3u8"
+    }
+  ],
+  "filmfrei_a_quiet_place_day_one": [
+    {
+      "title": "A Quiet Place: Tag Eins",
+      "url": "https://3jtpuy07im.swiftload.io/serve/3/x71xoesgd4m/0yzOMezycVN1SGfHIvnNYw/1728050148/x71xoesgd4m//master.m3u8"
+    }
+  ]
 }
