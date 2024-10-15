@@ -1,0 +1,31 @@
+{
+  "id": "org.filmfrei.stremioaddon",
+  "version": "1.0.0",
+  "name": "FilmFrei",
+  "description": "Kostenloses Streaming-Erlebnis – 100% werbefrei!",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "filmfrei_catalog",
+      "name": "FilmFrei Filme"
+    }
+  ],
+  "idPrefixes": ["filmfrei_"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "filmfrei_catalog",
+      "name": "FilmFrei Filme",
+      "extra": [{ "name": "search" }]
+    }
+  ],
+  "resources": ["catalog", "meta", "stream"],
+  "behaviorHints": {
+    "adult": false
+  }
+}
