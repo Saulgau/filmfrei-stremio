@@ -1,0 +1,23 @@
+{
+  "metas": [
+    {
+      "id": "filmfrei_deadpool_wolverine",
+      "type": "movie",
+      "name": "Deadpool & Wolverine",
+      "poster": "https://cdn.kinocheck.com/i/w=1200/d3mx9y2anl.jpg",
+      "background": "https://cdn.kinocheck.com/i/w=1200/d3mx9y2anl.jpg",
+      "description": "Deadpool & Wolverine (2024)",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "filmfrei_john_wick",
+      "type": "movie",
+      "name": "John Wick",
+      "poster": "https://cdn.kinocheck.com/i/w=1200/pvatm0owmf.jpg",
+      "background": "https://cdn.kinocheck.com/i/w=1200/pvatm0owmf.jpg",
+      "description": "John Wick (2014)",
+      "releaseInfo": "2014"
+    },
+    // Fügen Sie hier die restlichen Filme aus Ihrem Katalog hinzu
+  ]
+}
