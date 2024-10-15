@@ -5,6 +5,7 @@
   "description": "Kostenloses Streaming-Erlebnis – 100% werbefrei!",
   "resources": [
     "catalog",
+    "meta",
     "stream"
   ],
   "types": ["movie"],
@@ -12,10 +13,14 @@
     {
       "type": "movie",
       "id": "filmfrei_catalog",
-      "name": "FilmFrei Filme"
+      "name": "FilmFrei Filme",
+      "extra": [{ "name": "search" }]
     }
   ],
   "idPrefixes": ["filmfrei_"],
+  "behaviorHints": {
+    "adult": false
+  },
   "catalogs": [
     {
       "type": "movie",
@@ -25,7 +30,15 @@
     }
   ],
   "resources": ["catalog", "meta", "stream"],
-  "behaviorHints": {
-    "adult": false
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "filmfrei_catalog",
+      "name": "FilmFrei Filme",
+      "url": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/refs/heads/main/catalog.json"
+    }
+  ],
+  "stream": {
+    "url": "https://raw.githubusercontent.com/Saulgau/filmfrei-stremio/refs/heads/main/streams.json"
   }
 }
