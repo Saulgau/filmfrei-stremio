@@ -18,6 +18,23 @@
       "description": "John Wick (2014)",
       "releaseInfo": "2014"
     },
-    // Fügen Sie hier die restlichen Filme aus Ihrem Katalog hinzu
+    {
+      "id": "filmfrei_harry_potter_1",
+      "type": "movie",
+      "name": "Harry Potter und der Stein der Weisen",
+      "poster": "https://i.ibb.co/wMLkNfK/Screenshot-2024-10-12-085419.png",
+      "background": "https://i.ibb.co/wMLkNfK/Screenshot-2024-10-12-085419.png",
+      "description": "Harry Potter und der Stein der Weisen (2001)",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "filmfrei_a_quiet_place_day_one",
+      "type": "movie",
+      "name": "A Quiet Place: Tag Eins",
+      "poster": "https://cdn.kinocheck.com/i/w=1200/byu6b224j7.jpg",
+      "background": "https://cdn.kinocheck.com/i/w=1200/byu6b224j7.jpg",
+      "description": "A Quiet Place: Tag Eins (2024)",
+      "releaseInfo": "2024"
+    }
   ]
 }
